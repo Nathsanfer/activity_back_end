@@ -64,7 +64,16 @@ public class App {
 
         // Exercício 09 -- A Conta de Banco Completa (Desafio Intermediário)
 
+        Conta conta01 = new Conta("Nathalia", 1000);
+        conta01.depositar(500);
+        conta01.sacar(200);
+        conta01.sacar(2000);
+
         // Exercício 10 -- O Sistema de Loja (O Grande Desafio Final)
 
+        Produto produto01 = new Eletronico("Camiseta", 29.99, 110);
+        produto01.exibirDetalhes();
+        Produto produto02 = new Roupa("Calça Jeans", 79.99, "M");
+        produto02.exibirDetalhes();
     }
 }
