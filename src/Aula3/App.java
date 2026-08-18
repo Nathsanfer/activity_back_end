@@ -7,6 +7,14 @@ public class App {
 
         Scanner scanner = new Scanner(System.in);
 
+        // Exercício -- Calculadora 
+
+        Calculadora calculadora = new Calculadora(10, 5);
+        calculadora.somar();
+        calculadora.subtrair();
+        calculadora.multiplicar();
+        calculadora.dividir();
+
         // Exercício 01 -- Captura de dados do usuário
 
         /*
