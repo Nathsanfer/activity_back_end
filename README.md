@@ -1,18 +1,23 @@
-## Getting Started
+# Activity Back End
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 🎯 Sobre
 
-## Folder Structure
+Este repositório contém exercícios práticos em Java focados em:
 
-The workspace contains two folders by default, where:
+- Programação orientada a objetos (POO)
+- Classes, objetos e atributos
+- Construtores
+- Herança
+- Polimorfismo
+- Estruturas condicionais e de decisão
+- Entrada de dados via console
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🗃️ Estrutura do projeto
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- `src/Aula2`: exercícios de POO, como classes, animal, carro, conta, formas e funcionários.
+- `src/Aula3`: exercícios com `if`, `switch`, cálculo de IMC e sistema bancário simples.
+- `bin`: arquivos compilados do projeto.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🚀 Objetivo
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Praticar os conceitos básicos de Java e reforçar a lógica de programação por meio de atividades graduais e progressivas.
